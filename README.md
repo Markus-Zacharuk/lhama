@@ -16,3 +16,4 @@ Example usage:
 > (&var4 &var4)
 ((((((Lx.Ly.x Lx.Ly.x) Lx.Ly.y) ((Lx.Ly.x Lx.Ly.x) Lx.Ly.y)) (((Lx.Ly.x Lx.Ly.x) Lx.Ly.y) ((Lx.Ly.x Lx.Ly.x) Lx.Ly.y))) ((((Lx.Ly.x Lx.Ly.x) Lx.Ly.y) ((Lx.Ly.x Lx.Ly.x) Lx.Ly.y)) (((Lx.Ly.x Lx.Ly.x) Lx.Ly.y) ((Lx.Ly.x Lx.Ly.x) Lx.Ly.y)))) (((((Lx.Ly.x Lx.Ly.x) Lx.Ly.y) ((Lx.Ly.x Lx.Ly.x) Lx.Ly.y)) (((Lx.Ly.x Lx.Ly.x) Lx.Ly.y) ((Lx.Ly.x Lx.Ly.x) Lx.Ly.y))) ((((Lx.Ly.x Lx.Ly.x) Lx.Ly.y) ((Lx.Ly.x Lx.Ly.x) Lx.Ly.y)) (((Lx.Ly.x Lx.Ly.x) Lx.Ly.y) ((Lx.Ly.x Lx.Ly.x) Lx.Ly.y))))) => Lx.Ly.x
 ```
+You can download the repository and run make to build yourself, or cou can download the executable from the Releases-section.
